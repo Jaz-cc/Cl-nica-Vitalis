@@ -6,6 +6,7 @@ import {
   FaUserMd,
 } from "react-icons/fa";
 import Navbar from "../../components/Navbar/Navbar";
+
 import "./Home.css";
 
 function Home() {
